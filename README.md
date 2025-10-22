@@ -5,7 +5,7 @@ Data Quality & Governance en devenir | Python & SQL & R | Scala en cours d'appre
 
 
  **Langages & Outils :**  
--  Python (pandas, scikit-learn, matplotlib)  
+-  Python (pandas, scikit-learn, matplotlib, Dash, Numpy, Statsmodels)  
 -  SQL (PostgreSQL, MySQL)  
 -  Git & GitHub  
 -  Web Scraping (BeautifulSoup, Selenium)  
