@@ -1,6 +1,6 @@
 #  Hello, I'm Mevlut Cakin  !
 
-Passionné par le Big Data, Machine Learning, et Football Analytics.  
+Passionné par le Big Data, Machine Learning, Football Analytics et étudier la qualité des données. 
 Data Quality & Governance en devenir | Python & SQL & R | Scala en cours d'apprentissage  
 
 
