@@ -12,5 +12,4 @@ Data Quality & Governance en devenir | Python & SQL & R | Scala en cours d'appre
 -  Big Data (Spark, Hadoop)  
 -  Création de Dashboard intéractif dans différents projets 
 
-Me contacter :
-[![LinkedIn]www.linkedin.com/in/mevlut-cakin
+Me contacter : www.linkedin.com/in/mevlut-cakin
