@@ -13,4 +13,4 @@ Data Quality & Governance en devenir | Python & SQL & R | Scala en cours d'appre
 -  Création de Dashboard intéractif dans différents projets 
 
 Me contacter :
-[![LinkedIn](www.linkedin.com/in/mevlut-cakin)
+[![LinkedIn]www.linkedin.com/in/mevlut-cakin
