@@ -1,4 +1,4 @@
-#  Hello, I'm Mevlut Cakin  !
+#  Hello, I'm David Mevlut Cakin  !
 
 Passionné par le Big Data, Machine Learning, Football Analytics et étudier la qualité des données. 
 Data Quality & Governance en devenir | Python & SQL & R | Scala en cours d'apprentissage  
@@ -12,4 +12,4 @@ Data Quality & Governance en devenir | Python & SQL & R | Scala en cours d'appre
 -  Big Data (Spark, Hadoop)  
 -  Création de Dashboard intéractif dans différents projets 
 
-Me contacter : www.linkedin.com/in/mevlut-cakin
+Me contacter : www.linkedin.com/in/david-cakin
